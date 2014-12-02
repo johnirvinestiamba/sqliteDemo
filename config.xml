@@ -43,6 +43,6 @@
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
     <icon src="android-icon.png" />
-    <gap:splash src="splash-android.png" />
+    <gap:splash src="splash-droid.png" />
     <access origin="*" />
 </widget>
